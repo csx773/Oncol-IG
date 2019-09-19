@@ -1,6 +1,4 @@
-### Oncol-IG NPO wireframe
 
-https://gomockingbird.com/projects/lq8mrf5/4gXVnC
 
 ### Oncol-IG React JavaScript Application
 
@@ -12,8 +10,14 @@ preventive measures available. If you are in need to find a doctor
 to consult in person, we offer functionality to find a medical
 professional in your area for possible dianosis and treatments.
 
-### demo and preview
+### Demo and Preview
 
 ![](home.gif)
 ![](diagram.gif)
 ![](contact.gif)
+
+### Contributors 
+# GITHUB
+- Chris (csx773)
+- Peter (petern160)
+- Nickolas (NicAChan)
