@@ -8,7 +8,7 @@ from fact-checked and peer reviewed sources. The site allows for
 interactive research and provid infomation on treatments and
 preventive measures available. If you are in need to find a doctor
 to consult in person, we offer functionality to find a medical
-professional in your area for possible dianosis and treatments.
+professional in your area for possible diagnosis and treatments.
 
 ### Demo and Preview
 
@@ -17,7 +17,6 @@ professional in your area for possible dianosis and treatments.
 ![](contact.gif)
 
 ### Contributors 
-# GITHUB
 - Chris (csx773)
 - Peter (petern160)
 - Nickolas (NicAChan)
